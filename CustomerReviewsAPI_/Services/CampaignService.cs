@@ -120,7 +120,7 @@ namespace CustomerReviewsAPI_.Services
             try
             {
                 
-                //OnBeforeSave.BeforeSave(typeof(Campaign));
+                onBeforeSave.BeforeSave(typeof(Campaign));
                 await _context.SaveChangesAsync();
             }
             catch (DbUpdateConcurrencyException)

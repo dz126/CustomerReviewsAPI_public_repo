@@ -104,6 +104,8 @@ namespace CustomerReviewsAPI_.Services
         #region Add a product 
         public async Task<ActionResult<Product>> AddProduct(ProductVM product)
         {
+            //var e = product with { ProductName="" };
+
 
             #region To Product
             var newProduct = new Product()
@@ -113,7 +115,7 @@ namespace CustomerReviewsAPI_.Services
 
 
             await _context.Products.AddAsync(newProduct);
-           // onBeforeSave.BeforeSave(typeof(Product));
+            onBeforeSave.BeforeSave(typeof(Product));
             await _context.SaveChangesAsync();
             #endregion
 

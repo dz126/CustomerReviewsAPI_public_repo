@@ -73,8 +73,6 @@ namespace CustomerReviewsAPI_.Services
 
 
         #region Update a company and its products details
-
-        
         public async Task<IActionResult> UpdateCompany(int id, CompanyVM updatedcompany)
         {
             #region Update Company Information
