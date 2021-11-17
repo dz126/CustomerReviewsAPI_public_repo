@@ -1,8 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Threading.Tasks;
-using CustomerReviewsAPI_.Services;
-using CustomerReviewsAPI_.ViewModels;
-using Microsoft.AspNetCore.Mvc;
+﻿
 
 namespace CustomerReviewsAPI_.Controllers
 {
