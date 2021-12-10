@@ -1,0 +1,7 @@
+C:\Users\DZ126\dotNetApps\API's\CustomerReviewsAPI_\CustomerReviewsAPI_\obj\Debug\netcoreapp3.1\CustomerReviewsAPI_.csproj.AssemblyReference.cache
+C:\Users\DZ126\dotNetApps\API's\CustomerReviewsAPI_\CustomerReviewsAPI_\obj\Debug\netcoreapp3.1\CustomerReviewsAPI_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DZ126\dotNetApps\API's\CustomerReviewsAPI_\CustomerReviewsAPI_\obj\Debug\netcoreapp3.1\CustomerReviewsAPI_.AssemblyInfoInputs.cache
+C:\Users\DZ126\dotNetApps\API's\CustomerReviewsAPI_\CustomerReviewsAPI_\obj\Debug\netcoreapp3.1\CustomerReviewsAPI_.AssemblyInfo.cs
+C:\Users\DZ126\dotNetApps\API's\CustomerReviewsAPI_\CustomerReviewsAPI_\obj\Debug\netcoreapp3.1\CustomerReviewsAPI_.csproj.CoreCompileInputs.cache
+C:\Users\DZ126\dotNetApps\API's\CustomerReviewsAPI_\CustomerReviewsAPI_\obj\Debug\netcoreapp3.1\CustomerReviewsAPI_.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DZ126\dotNetApps\API's\CustomerReviewsAPI_\CustomerReviewsAPI_\obj\Debug\netcoreapp3.1\CustomerReviewsAPI_.MvcApplicationPartsAssemblyInfo.cache

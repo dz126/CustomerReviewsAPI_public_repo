@@ -1,4 +1,13 @@
 ﻿
+using CustomerReviewsAPI_.Models;
+using CustomerReviewsAPI_.Services;
+using CustomerReviewsAPI_.ViewModels;
+using Microsoft.AspNetCore.Components;
+using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using RouteAttribute = Microsoft.AspNetCore.Components.RouteAttribute;
+
 namespace CustomerReviewsAPI_.Controllers
 {
     [Route("api/[controller]")]

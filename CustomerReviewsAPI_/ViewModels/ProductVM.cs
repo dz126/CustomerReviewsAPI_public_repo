@@ -1,6 +1,8 @@
 ﻿
 
 
+using System.Collections.Generic;
+
 namespace CustomerReviewsAPI_.ViewModels
 {
      #region View model to Add a Product with it's company and campaign details 

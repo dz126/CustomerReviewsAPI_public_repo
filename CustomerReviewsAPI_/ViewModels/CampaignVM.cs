@@ -1,5 +1,8 @@
 ﻿
 
+using System;
+using System.Collections.Generic;
+
 namespace CustomerReviewsAPI_.ViewModels
 {
    

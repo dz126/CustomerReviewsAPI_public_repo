@@ -1,5 +1,8 @@
 ﻿
 
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace CustomerReviewsAPI_.Models
 {
     #region Company and its Campaigns

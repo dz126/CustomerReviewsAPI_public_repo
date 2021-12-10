@@ -1,5 +1,9 @@
 ﻿
 
+using CustomerReviewsAPI_.Controllers;
+using Microsoft.EntityFrameworkCore;
+using System;
+
 namespace CustomerReviewsAPI_.Models
 {
     public class OnBeforeSave : IOnBeforeSave

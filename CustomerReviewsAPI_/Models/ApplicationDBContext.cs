@@ -1,4 +1,7 @@
 ﻿
+using Microsoft.EntityFrameworkCore;
+using System;
+
 namespace CustomerReviewsAPI_.Models
 {
 
