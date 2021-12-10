@@ -1,6 +1,4 @@
 ﻿
-
-
 using System.Collections.Generic;
 
 namespace CustomerReviewsAPI_.ViewModels
@@ -15,6 +13,7 @@ namespace CustomerReviewsAPI_.ViewModels
     #endregion
     
     #region View model for Retrieving  a Product with its Company & Campaign details
+
     public class ProductsCompaniesVM
     {
         public string ProductName { get; set; }
